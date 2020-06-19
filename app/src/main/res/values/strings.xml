@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music Structure</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="album">Album</string>
+    <string name="Artist">Artist</string>
+
+    <string name="getMusic">Get more music</string>
+    <string name="skipb">Skip Backwards</string>
+    <string name="skipf">Skip forwards</string>
+    <string name="playPause">Play or pause</string>
+    <string name="titleHint">Title</string>
+    <string name="searchBox">Search name or artist</string>
+    <string name="findMusic">Find</string>
+
+    <string name="Ring">7 rings</string>
+    <string name="ariana">Ariana Grande</string>
+
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="stop_button">Stop</string>
+
+
+</resources>

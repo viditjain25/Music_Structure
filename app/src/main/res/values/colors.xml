@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="textColor">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the albums category -->
+    <color name="category_albums">#8800A0</color>
+
+    <!-- Background color for the artists category -->
+    <color name="category_artists">#16AFCA</color>
+
+    <!-- Background color for buttons -->
+    <color name="play_button">#7B1FA2</color>
+    <color name="pause_button">#8E24AA</color>
+    <color name="stop_button">#6A1B9A</color>
+    <!-- Text color for buttons -->
+    <color name="button_text">#F3E5F5</color>
+</resources>
